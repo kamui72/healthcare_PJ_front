@@ -15,9 +15,9 @@ permissions:
   contents: read
 
 env:
-  AZURE_CONTAINER_REGISTRY: healthcare7
+  AZURE_CONTAINER_REGISTRY: acrsample
   CONTAINER_NAME: sampleapp
-  CONTAINER_APP_NAME: aca-sample
+  CONTAINER_APP_NAME: healthcare7
   RESOURCE_GROUP: rgsample
 
 jobs:
