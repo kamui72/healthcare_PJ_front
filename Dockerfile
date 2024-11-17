@@ -1,1 +1,1 @@
-aaa
+FROM nginx:latest
