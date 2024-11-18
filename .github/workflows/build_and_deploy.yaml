@@ -15,7 +15,7 @@ permissions:
   contents: read
 
 env:
-  AZURE_CONTAINER_REGISTRY: acrhealthcare7
+  AZURE_CONTAINER_REGISTRY: acrhealthcare7a
   CONTAINER_NAME: sampleapp
   CONTAINER_APP_NAME: aca-healthcarefront
   RESOURCE_GROUP: rgsamplerg-healthcare-dev-001
